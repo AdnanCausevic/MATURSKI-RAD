@@ -8,7 +8,7 @@ Kontrolna tabla za kriptovalute sa Vue JS, omogućenom PWA, Binance Websocket AP
 
 <img width="500" alt="portfolio_view" src="https://user-images.githubusercontent.com/36194663/47360137-3edb8580-d6ec-11e8-8cb9-88b632328e38.png">
  
-## Tech Stacks
+## Potrebno:
 
 - [Vue CLI 3](https://github.com/vuejs/vue-cli)
 - [Vue 2](https://v2.vuejs.org/)
