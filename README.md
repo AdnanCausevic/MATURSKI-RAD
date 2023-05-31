@@ -1,8 +1,8 @@
 # Vue Crypto Dashboard
 
-A Cryptocurrency Dashboard build with Vue JS, PWA enabled, Binance Websocket API for realtime price, amChart for displaying historical charts, SVG Sparkline Chart and Latest News feed from Cryptocompare site. 
+Kontrolna tabla za kriptovalute sa Vue JS, omogućenom PWA, Binance Websocket API-jem za cenu u realnom vremenu, amChart za prikaz istorijskih grafikona, SVG Sparkline grafikon i najnovijim vestima sa Cryptocompare sajta.
 
-Demo: [https://jayeshlab.github.io/vue-crypto-dashboard/](https://jayeshlab.github.io/vue-crypto-dashboard/)
+
 
 <img width="500" alt="portfolio_view" src="https://user-images.githubusercontent.com/36194663/47360119-2ec3a600-d6ec-11e8-95a2-0b61d0bf0f11.png">
 
@@ -23,32 +23,32 @@ Demo: [https://jayeshlab.github.io/vue-crypto-dashboard/](https://jayeshlab.gith
 - [Custom Binance Websocket Api](https://github.com/JayeshLab/vue-crypto-dashboard/blob/master/src/services/api.js)
 
 
-## Prerequisites:
+## Preduvjeti:
 
 - Node/NPM
 - Vue-cli 3.x
 
-## Project setup
+## Setup projekta:
 ```
 npm install
 ```
 
-### Compiles and hot-reloads for development
+### Kompajlira i ponovno učitava za razvoj:
 ```
 npm run serve
 ```
 
-### Compiles and minifies for production
+### Sastavlja i minimizira za proizvodnju:
 ```
 npm run build
 ```
 
-### Lints and fixes files
+### Lintovi i popravci fajlova:
 ```
 npm run lint
 ```
 
-### Run your unit tests
+### Pokretanje testova:
 ```
 npm run test:unit
 ```
