@@ -1,0 +1,143 @@
+[
+  {
+    "cid": 1,
+    "symbol": "BTCUSDT",
+    "base": "BTC",
+    "quote": "USDT",
+    "name": "BITCOIN"
+  },
+  {
+    "cid": 74,
+    "symbol": "DOGEUSDT",
+    "base": "DOGE",
+    "quote": "USDT",
+    "name": "DOGECOIN"
+  },
+  {
+    "cid": 1027,
+    "symbol": "ETHUSDT",
+    "base": "ETH",
+    "quote": "USDT",
+    "name": "ETHEREUM"
+  },
+  {
+    "cid": 1839,
+    "symbol": "BTCUSDT",
+    "base": "BTC",
+    "quote": "USDT",
+    "name": "BINANCE COIN"
+  },
+  {
+    "cid": 2,
+    "symbol": "LTCUSDT",
+    "base": "LTC",
+    "quote": "USDT",
+    "name": "LITECOIN"
+  },
+  {
+    "cid": 2010,
+    "symbol": "ADAUSDT",
+    "base": "ADA",
+    "quote": "USDT",
+    "name": "CARDANO"
+  },
+  {
+    "cid": 5426,
+    "symbol": "SOLUSDT",
+    "base": "SOL",
+    "quote": "USDT",
+    "name": "SOLANA"
+  },
+  {
+    "cid": 328,
+    "symbol": "XMRUSDT",
+    "base": "XMR",
+    "quote": "USDT",
+    "name": "MONERO"
+  },
+  {
+    "cid": 1,
+    "symbol": "BTCEUR",
+    "base": "BTC",
+    "quote": "EUR",
+    "name": "EURO/BTC"
+  },
+  {
+    "cid": 5994,
+    "symbol": "SHIBEUR",
+    "base": "SHIB",
+    "quote": "EUR",
+    "name": "SHIBA INU"
+  },
+  {
+    "cid": 1720,
+    "symbol": "IOTABNB",
+    "base": "IOTA",
+    "quote": "BNB",
+    "name": "IOTA"
+  },
+  {
+    "cid": 3890,
+    "symbol": "MATICUSDT",
+    "base": "MATIC",
+    "quote": "USDT",
+    "name": "POLYGON"
+  },
+  {
+    "cid": 2577,
+    "symbol": "RVNUSDT",
+    "base": "RVN",
+    "quote": "USDT",
+    "name": "RAVEN"
+  },
+  {
+    "cid": 1958,
+    "symbol": "TRXEUR",
+    "base": "TRX",
+    "quote": "EUR",
+    "name": "TRON"
+  },
+  {
+    "cid": 2416,
+    "symbol": "TFUELUSDT",
+    "base": "TFUEL",
+    "quote": "USDT",
+    "name": "THETA FUEL"
+  },
+  {
+    "cid": 6636,
+    "symbol": "DOTBNB",
+    "base": "DOT",
+    "quote": "BNB",
+    "name": "POLKADOT"
+  },
+  {
+    "cid": 4157,
+    "symbol": "RUNEUSDT",
+    "base": "RUNE",
+    "quote": "USDT",
+    "name": "THORCHAIN"
+      },
+  {
+    "cid": 1975,
+    "symbol": "LINKUSDT",
+    "base": "LINK",
+    "quote": "USDT",
+    "name": "CHAINLINK"
+      },
+  {
+  "cid": 512,
+  "symbol": "XLMUSDT",
+  "base": "XLM",
+  "quote": "USDT",
+  "name": "STELLAR"
+     },
+  {
+    "cid": 3794,
+    "symbol": "ATOMUSDT",
+    "base": "ATOM",
+    "quote": "USDT",
+    "name": "COSMOS"
+    }
+  
+]
